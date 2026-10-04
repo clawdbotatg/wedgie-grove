@@ -4,12 +4,13 @@ A walk-around game for the [wedgie](https://wedgie.dev). A knight with a sword s
 the screen and a big world slides under him: grass, stone paths, ponds, trees, rocks and bushes.
 Slash a bush and, one time in five, there's a crystal under it. Walk over a crystal to pick it up.
 
-The world is the same every time (96 x 96 tiles, the sea all round it). The crystals aren't.
+The world is the same every time (78 x 78 tiles of land, the sea all round it). The crystals aren't.
 
 ## Controls
 
 - Joystick: walk.
 - **A** (green): slash the bush in front of you.
+- **B**: zoom in. **X**: zoom out. Three zooms: 8, 16 (start) and 32 px a tile.
 
 ## Save
 
